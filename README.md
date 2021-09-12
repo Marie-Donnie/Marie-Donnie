@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a PhD student working on geo-distributed cloud applications for the Edge
-- 🌱 I’m currently learning a lot, as always :) More precisely, now I'm learning Go for my new project.
+- 🌱 I like to learn, as always :) More precisely, I'm currently learning Go for my thesis project.
 - 😄 Pronouns: She/Her
 
 ---
