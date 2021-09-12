@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marie-Donnie&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[Unlock the README profile and more](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
+[How to unlock the README profile and more for your GitHub account](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7)
