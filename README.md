@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on geo-distributed cloud applications for the Edge
+- 🔭 I’m currently a PhD student working on geo-distributed cloud applications for the Edge
 - 🌱 I’m currently learning a lot, as always :) More precisely, now I'm learning Go for my new project.
 - 😄 Pronouns: She/Her
 
