@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a PhD student working on geo-distributed cloud applications for the Edge
-- 🌱 I like to learn, as always :) More precisely, I'm currently learning Go for my thesis project.
-- 😄 Pronouns: She/Her
+- 🌱 I like to learn, as always :) More precisely, I'm currently learning Go for my thesis project, Cheops.
+- 😄 Pronouns: She/Her (but I won't take offense on anything else, don't worry)
 
 ---
 
