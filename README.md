@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently an engineer working on geo-distributed cloud applications for the Edge
-- 🌱 I like to learn, as always :) More precisely, I'm currently learning Go while working on my former thesis project, Cheops.
+- 🌱 I like to learn, as always :) More precisely, I'm currently learning Go while working on my former thesis project, [Cheops](https://cheopsfortheedge.github.io/).
 
 ---
 
